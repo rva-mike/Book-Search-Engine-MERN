@@ -23,7 +23,7 @@
   * [Questions](#questions)
 
   ## Installation
-  Git clone this repository. Install the node packages with the command 'npm i' in your CLI.
+  Git clone this repository. Install the node packages with the command 'npm i' in your CLI. Run the app with the command 'npm run develop'
 
   ## Usage
   Used for book searching and saving.
